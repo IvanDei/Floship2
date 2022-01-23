@@ -28,7 +28,7 @@ pip-delete-this-directory.txt
 
 .env
 db.sqlite3
-
+identifier.sqlite
 
 ### OSX ###
 .DS_Store
